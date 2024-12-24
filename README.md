@@ -73,7 +73,7 @@ RegisterNumber: 24000831
 ![Screenshot 2024-11-15 143113](https://github.com/user-attachments/assets/b67a0bcb-9da1-42dd-99ea-62bd20778b2c)
 
 **RESULTS**
-Thus the Half and Full Adders are studied and the truth tables are verified.
+Thus the ENCODER 8TO3 DATAFLOW Modelling are studied and the truth tables are verified.
 
 
 
